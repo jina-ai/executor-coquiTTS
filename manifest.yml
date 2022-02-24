@@ -1,0 +1,5 @@
+manifest_version: 1
+name: CoquiTTS7
+description: Executor that leverages CoquiTTS engine for text2speech
+url: https://github.com/jina-ai/executor-coquiTTS
+keywords: ['tts', ' text', ' speech', ' coqui']
